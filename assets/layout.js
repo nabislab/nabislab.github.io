@@ -25,6 +25,7 @@ const SITE = {
     ['publications.html', 'Publications'],
     ['team.html', 'Team'],
     ['patents.html', 'Patents'],
+    ['gallery.html', 'Gallery'],
   ],
 
   /* ---- 푸터 가운데 칸 ---- */
@@ -33,6 +34,7 @@ const SITE = {
     ['publications.html', 'Publications'],
     ['team.html', 'Team'],
     ['patents.html', 'Patents'],
+    ['gallery.html', 'Gallery'],
   ],
 
 };
